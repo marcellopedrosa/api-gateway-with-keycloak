@@ -25,3 +25,8 @@
 6. Autentique-se no Keycloak > Acesse jwt.io > Verifique se o payload está como mostra a imagem:
 
 ![image](https://github.com/user-attachments/assets/c6cd6d8b-2ddc-427e-b3f1-1439154b53c8)
+
+7. Escopo acima criado é utilizado no Spring Cloud Api Gateway utilizando Spring Security
+
+Detalhes de implementação:
+https://github.com/marcellopedrosa/api-gateway/blob/main/src/main/java/br/com/csc/api_gateway/configuration/SecurityConfig.java
