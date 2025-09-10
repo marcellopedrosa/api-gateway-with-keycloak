@@ -18,6 +18,12 @@
 
 4. Preencha dessa forma para ficar igual ao que foi mapeado na configuração do gateway no [Spring Security](https://github.com/marcellopedrosa/api-gateway/blob/main/src/main/java/br/com/csc/api_gateway/configuration/SecurityConfig.java) 
 
+- Preencher com:
+- **Name**: Acesso Administrador as Rotas de Administração do Gateway
+- **Token Claim Name**: scope
+- **Claim Value**: admin_gateway
+- **Claim JSON Type**: String
+
 ![image](https://github.com/user-attachments/assets/9709cfd4-589e-4635-af38-13c973b11335)
 
 5. Acesse seu client (backend ou frontend) > Aba "Client scopes" > Clique em "Add client scope" > Selecione "admin_gateway" > Selecione Add opção "Default" > Done! 
