@@ -3,6 +3,8 @@
 ## Configurações do SCOPE_admin_gateway no Keycloak
 
 1. Criar um Client Scope
+- admin_gateway
+- Acesso a rotas administrativas do gateway
 
 ![image](https://github.com/user-attachments/assets/ab5b33f3-06a7-411b-8f19-5a4be1a482fc)
 
