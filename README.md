@@ -26,7 +26,9 @@
 
 ![image](https://github.com/user-attachments/assets/9709cfd4-589e-4635-af38-13c973b11335)
 
-5. Acesse seu client (**backend, frontend não!** ) > Aba "Client scopes" > Clique em "Add client scope" > Selecione "admin_gateway" > Selecione Add opção "Default" > Done! 
+5. Acesse seu client > Aba "Client scopes" > Clique em "Add client scope" > Selecione "admin_gateway" > Selecione Add opção "Default" > Done! 
+- OBS: client: Ser um api account-service (backend), frontend não!
+- OBS: client: aplicar a um usuário do realm que autentica em um frontend
 
 ![image](https://github.com/user-attachments/assets/c3242216-287c-4bdd-b13e-722132779e4b)
 
