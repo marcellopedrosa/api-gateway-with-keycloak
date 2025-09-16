@@ -12,11 +12,11 @@
 
 2. Acesse aba Mapper e clique em "Configure a new mapper"
 
-- Configure como **[Hardcoded claim]**
-
 ![image](https://github.com/user-attachments/assets/b399da75-e822-4e5b-b057-a1768162e6cc)
 
 3. Selecione a opção abaixo para criar um Custom Scope
+
+- Configure como **[Hardcoded claim]**
 
 ![image](https://github.com/user-attachments/assets/dd98d070-99b7-488c-9d9e-48f36fe33727)
 
