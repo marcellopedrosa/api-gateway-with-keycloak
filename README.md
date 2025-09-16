@@ -3,12 +3,14 @@
 ## Configurações do SCOPE_admin_gateway no Keycloak
 
 1. Criar um Client Scope
-- admin_gateway
-- Acesso a rotas administrativas do gateway
+   
+- Prencher:
+- **Name:** admin_gateway
+- **Description:** Acesso a rotas administrativas do gateway
 
 ![image](https://github.com/user-attachments/assets/ab5b33f3-06a7-411b-8f19-5a4be1a482fc)
 
-2. Configure um novo mapper
+2. Acesse aba Mapper e clique em "Configure a new mapper"
 
 ![image](https://github.com/user-attachments/assets/b399da75-e822-4e5b-b057-a1768162e6cc)
 
